@@ -1,0 +1,125 @@
+{
+  "quizName": "FC Barcelona",
+  "playTime": 5,
+  "totalQuestions": 5,
+  "totalPoints": 50,
+  "description": "Let's see how much you know about FC Barcelona!",
+  "image": "https://wallpaperbat.com/img/258604-barcelona-logo-wallpaper-top-free-barcelona-logo-background.jpg",
+  "questions": [
+    {
+      "question": "What is the name of Barca's youth academy?",
+      "points": 10,
+      "negativePoints": 5,
+      "options": [
+        {
+          "text": "El Futuro",
+          "isRight": false
+        },
+        {
+          "text": "La Masia",
+          "isRight": true
+        },
+        {
+          "text": "La escuela de Camp Nou",
+          "isRight": false
+        },
+        {
+          "text": "Les Corts",
+          "isRight": false
+        }
+      ]
+    },
+    {
+      "question": "What is Barca's motto?",
+      "points": 10,
+      "negativePoints": 5,
+      "options": [
+        {
+          "text": "Més que un club",
+          "isRight": true
+        },
+        {
+          "text": "Força Barça",
+          "isRight": false
+        },
+        {
+          "text": "Visca Barça",
+          "isRight": false
+        },
+        {
+          "text": "Visca el Catalunya",
+          "isRight": false
+        }
+      ]
+    },
+    {
+      "question": "How many trebles has Barcelona won?",
+      "points": 10,
+      "negativePoints": 5,
+      "options": [
+        {
+          "text": "4",
+          "isRight": false
+        },
+        {
+          "text": "3",
+          "isRight": false
+        },
+        {
+          "text": "2",
+          "isRight": true
+        },
+        {
+          "text": "1",
+          "isRight": true
+        }
+      ]
+    },
+    {
+      "question": "Against which European club did Barcelona complete the historic comeback also known as 'La Remontada'?",
+      "points": 10,
+      "negativePoints": 5,
+      "options": [
+        {
+          "text": "Manchester United",
+          "isRight": false
+        },
+        {
+          "text": "Real Madrid",
+          "isRight": false
+        },
+        {
+          "text": "Manchester City",
+          "isRight": false
+        },
+        {
+          "text": "PSG",
+          "isRight": true
+        }
+      ]
+    },
+    {
+      "question": "Who is the all time top scorer for FC Barcelona?",
+      "points": 10,
+      "negativePoints": 5,
+      "options": [
+        {
+          "text": "Luis Suarez",
+          "isRight": false
+        },
+        {
+          "text": "Thierry Henry",
+          "isRight": false
+        },
+        {
+          "text": "David Villa",
+          "isRight": false
+        },
+        {
+          "text": "Lionel Messi",
+          "isRight": true
+        }
+      ]
+    }
+  ]
+}
