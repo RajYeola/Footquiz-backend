@@ -12,6 +12,10 @@ dotenv.config();
 app.use(express.json());
 app.use(cors());
 
+app.get("/", (req, res) => {
+  return res.json({ message: "Welcome to footquiz API" });
+});
+
 app.use("/quiz", quizRouter);
 app.use("/user", userRouter);
 
